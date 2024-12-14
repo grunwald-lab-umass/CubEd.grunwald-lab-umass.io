@@ -1,1 +1,6 @@
 /* css styles */
+.pdf_view_class {
+    max-width: 100%;
+    width: 600px;
+    height: 600px;
+  }

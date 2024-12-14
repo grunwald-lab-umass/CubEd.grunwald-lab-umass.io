@@ -11,7 +11,7 @@
     "href": "guide.html",
     "title": "CubEd Manufacturing Guide",
     "section": "",
-    "text": "Download pdf"
+    "text": "{fig-alt=“The PDF version of our CubEd Manufacturing Guide can also be downloaded from the CubEd_user_documentation folder of our repository.” width=“100%”, height=600px}"
   },
   {
     "objectID": "about.html",
@@ -19,5 +19,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "manual.html",
+    "href": "manual.html",
+    "title": "CubEd Classroom Manual",
+    "section": "",
+    "text": "{fig-alt=“The PDF version of our CubEd Manual can also be downloaded from the CubEd_user_documentation folder of our repository.” width=“100%”, height=600px}"
   }
 ]
