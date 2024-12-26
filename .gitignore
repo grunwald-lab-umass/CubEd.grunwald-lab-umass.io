@@ -1,5 +1,10 @@
-
-test.txt
 .Rproj.user
 CubEd.Rproj
 .Rhistory
+
+_quarto.yml
+index.qmd
+site_files/*
+
+/.quarto/
+
